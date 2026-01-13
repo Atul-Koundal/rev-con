@@ -28,3 +28,16 @@
     initially i = 0; j = 1 movw j while j != # subtsr i to j -i to get length
     substr j + 1 and length 
     push_back to result move i to j + length + 1
+
+
+7. Product of Array except self
+    [With devision operator] Count zeroes
+   if no zeros then nums[i] = product/nums[i]
+   if 1 zero then nums[i]!=0 = 0 and the zero nums[i] is product
+   if 2 zeros then every nums[i] = 0
+   [Without division operator] Calculate the prefix and suffiz product of every nums[i] and push_back in ans
+
+
+8. Valid Sudoku
+    
+   
