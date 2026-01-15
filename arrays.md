@@ -39,5 +39,13 @@
 
 
 8. Valid Sudoku
+    Just have to check three things 
+    every row unique number
+    evry column unique number 
+    every 3*3 grid has unique number
+
+9.Longest Consecutive Sequence
+    Sort the array,handle all the three cases (=,+1,other) also edge cases when no element is present
+    ****Learn that hash one*****
     
    
